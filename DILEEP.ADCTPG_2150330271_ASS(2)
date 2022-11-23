@@ -1,0 +1,6 @@
+n=int(input("Enter any nymber"))
+m=int(input("enter any number"))
+if(m=n):
+    print("the given two number are equal")
+else:
+    print("the given  two number are not equal ")
