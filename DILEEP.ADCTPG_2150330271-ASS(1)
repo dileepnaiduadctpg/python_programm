@@ -1,0 +1,13 @@
+x=int(input("enter s.no :"))
+y=input("enter student name :")
+z=input("enter student group :")
+a=int(input("enter subject1 marks :"))
+b=int(input("enter subject2 marks :"))
+c=int(input("enter subject3 marks :"))
+print ("s.no :",x)
+print ("name :",y)
+print("group :",z)
+if a>34 and b>34 and c>34:
+    print("pass")
+else:
+    print("fail")
