@@ -1,0 +1,7 @@
+list=[1,2,3,4,5]
+print("Enter a number")
+n=int(input("enter a value"))
+if n in list:
+    print("the element is avaliable in list")
+else:
+    print("the given element is not avaliable in list")
