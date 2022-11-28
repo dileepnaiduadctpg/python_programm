@@ -1,0 +1,5 @@
+balance=1000
+n=int(input("enter a value"))
+print("credited amount =",n)
+main=balance+n
+print("main balance=",main);
