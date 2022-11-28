@@ -1,0 +1,7 @@
+p=int(input("enter a value"))
+n=1550
+if (p==n):
+    print("continue the transtation")
+else:
+    print("incorrect pin number")
+    
